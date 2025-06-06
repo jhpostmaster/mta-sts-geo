@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: jerseyislandgeopark-org-je.mail.protection.outlook.com	
+mode: enforce
+mx: jerseyislandgeopark-org-je.t-v1.mx.microsoft
 max_age: 604800
